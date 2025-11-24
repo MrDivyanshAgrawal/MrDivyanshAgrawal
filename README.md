@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Divyansh Agrawal</h1>
-<h3 align="center">Full-Stack Developer | Backend Engineer | Competitive Programmer | CSE @ IIIT Kota</h3>
+<h3 align="center">Full-Stack Developer | Competitive Programmer | CSE @ IIIT Kota</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MrDivyanshAgrawal&label=Profile%20Views&color=0e75b6&style=flat" />
