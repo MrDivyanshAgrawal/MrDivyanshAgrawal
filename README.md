@@ -140,5 +140,5 @@ I enjoy building **production-ready platforms**—from event booking systems to 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" width="100%"/>
-  <i>✨ Open to full-stack and backend engineering opportunities!</i>
+  <i>✨ Open to full-stack and competitve programming challenges!</i>
 </p>
