@@ -1,8 +1,3 @@
-<!-- Full Width Banner -->
-<p align="center">
-  <img src="https://drive.google.com/uc?id=1gaFKjHNl88Z2-_r0f1r09eWQWgOM8sOD" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Divyansh Agrawal</h1>
 <h3 align="center">Full-Stack Developer | Competitive Programmer | CSE @ IIIT Kota</h3>
 
