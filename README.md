@@ -5,9 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=MrDivyanshAgrawal&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
 
 ## 🚀 About Me
+
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
 
 Computer Science Engineering student at **IIIT Kota** with a strong **8.79/10 CGPA**, focused on high-performance **full-stack development, backend engineering, system design, and real-time application architectures**.
 
